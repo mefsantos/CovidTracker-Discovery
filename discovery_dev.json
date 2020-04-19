@@ -1,0 +1,8 @@
+{
+    "applications": [{
+        "appId": "pt.adyta.covidtracker",
+        "description": "This is the demo app of the DP-3T SDK",
+        "backendBaseUrl": "https://covidtracker.adyta.pt/",
+        "contact": "Adyta, support@adyta.pt"
+    }]
+}
